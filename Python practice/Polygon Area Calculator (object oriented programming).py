@@ -2,6 +2,7 @@
 """
 Created on Thu Jan 20 11:35:55 2022
 
+Instructions can be found in https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator
 @author: Juan
 """
 
